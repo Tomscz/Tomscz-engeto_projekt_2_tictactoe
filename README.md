@@ -1,4 +1,4 @@
-# Tomscz-engeto_projekt_2_tictactoe
+'''# Tomscz-engeto_projekt_2_tictactoe
 This is python code of game tictactoe
 
 GAME RULES:
@@ -19,4 +19,4 @@ to press enter button and your position
 will be filled. Then player number two
 start. Both players play until one of
 them WIN or until there is DRAW.
-========================================
+========================================'''
