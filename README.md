@@ -1,4 +1,6 @@
 '''# Tomscz-engeto_projekt_2_tictactoe
+
+
 This is python code of game tictactoe
 
 GAME RULES:
