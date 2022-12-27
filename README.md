@@ -1,6 +1,10 @@
-'''# Tomscz-engeto_projekt_2_tictactoe
+'''projekt_2 druhý projekt Engeto Python akademie_ tictactoe
+author: Tomáš Šmíd
+email: tomas.smid@gmail.com
+discord: Tomáš Š#9081
+'''
 
-
+'''
 This is python code of game tictactoe
 
 GAME RULES:
